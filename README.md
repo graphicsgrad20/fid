@@ -1,3 +1,3 @@
 # fid
 
-This is to complete an anssignment in DIG2500C.
+This repository is to host all my class assingments for DIG2500C.
