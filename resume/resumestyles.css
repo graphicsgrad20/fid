@@ -1,0 +1,59 @@
+body {
+  background-color: #6ac9d8;
+  background-image: url(images/fade.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  margin: 0 10%;
+  font-family: sans-serif;
+}
+h1 {
+  font-family: "Jost";
+}
+h2 {
+  color: #fff;
+  font-family: "Jost";
+}
+h3 {
+  font-family: "Jost";
+}
+a:link {
+  color: #5679b1;
+  text-decoration: none;
+}
+a:visited {
+  color: #665ed0;
+}
+a:focus {
+  color: #5679b1;
+  text-decoration: underline;
+}
+a:hover {
+  color: #5679b1;
+  text-decoration: underline;
+}
+a:active {
+  color: #5679b1;
+  text-decoration: underline;
+}
+li {
+  list-style-type: square;
+  color: #5679b1;
+}
+.box {
+  background-color: #fff;
+  border: 1px solid gray;
+  line-height: 25px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.box2 {
+  color: #5679b1;
+  background-color: #fff;
+  border: 1px solid gray;
+  line-height: 25px;
+  padding: 15px 15px 15px 15px;
+}
+.center {
+  text-align: center;
+}
